@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @saastad
+- 👋 Hi, I’m @SaaStad
+- 🎨 I'm a UI/UX designer
 - 👀 I’m interested in crypto
 - 🌱 I’m currently learning to code
-- 💞️ I’m looking to collaborate on making $$$
+- 💞️ I’m looking to collaborate on web3 projects
 - 📫 How to reach me: @surpluss1 on Twitter
 
 <!---
