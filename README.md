@@ -3,7 +3,7 @@
 - 👀 I’m interested in crypto
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on web3 projects
-- 📫 How to reach me: @surpluss1 on Twitter
+- 📫 How to reach me: @surpluss1 on Twitter/X
 
 <!---
 saastad/saastad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
